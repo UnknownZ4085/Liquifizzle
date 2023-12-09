@@ -1,0 +1,13 @@
+{
+	"name": "Bit Soda"
+	"description": "The main component of Bit turrets and units."
+  "details": "Liquified and compressed, in a can, this is the material for special turrets and units."
+	"hardness": 2,
+	"cost": 2,
+	"color": "ffffff",
+	"explosiveness": 0.05,
+	"flammability": 0.05,
+  "radiocativity": 0.05,
+  "charge": 0.05,
+	"research": "igh-c1-items"
+}
