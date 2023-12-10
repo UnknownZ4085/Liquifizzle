@@ -1,3 +1,13 @@
 {
-"name":
+"name": "Aluminum"
+"description": "The main component used for making basic soda cans."
+"details": "13"
+"hardness": 1,
+"cost": 1.2,
+"color": "ffffff",
+"explosiveness": 0.0,
+"flammability": 0.0,
+"radiocativity": 0.0,
+"charge": 0.0,
+"research": "rresource-items-resource"
 }
