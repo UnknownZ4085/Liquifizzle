@@ -6,16 +6,23 @@
 "size": 1,
 "hasPower": false,
 "hasItems": true,
+"itemCapacity": 8,
+"liquidCapacity": 25,
 "hasLiquids": true,
-"craftTime": 12,
+"craftTime": 15,
 "craftEffect": "none",
 "updateEffect": "none",
 "consumes": {
+"items": {
+[
+"resources-1-aluminum/1"
+]
+},
 "liquids": {
 "liquids": [
 "liquids-1-soda/0.05",
 ]
-}
+},
 },
 "requirements": [
 "resources-1-aluminum/15",
