@@ -3,21 +3,22 @@
 "name": "Crumb Mixer",
 "description": "Mixes soda with some elements from the ground.",
 "details": "Has a built in drill to extract some materials from the ground, liquifies the materials then mixes it with soda to make Crumb.",
-"size": 2,
+"size": 1,
 "hasPower": false,
 "hasItems": true,
 "hasLiquids": true,
-"craftTime": 6,
+"craftTime": 12,
 "craftEffect": "none",
 "updateEffect": "none",
 "consumes": {
 "liquids": {
 "liquids": [
-"liquids-1-soda"
+"liquids-1-soda/0.05",
 ]
 }
 },
 "requirements": [
+"resources-1-aluminum/15",
 ],
 "category": "crafting",
 "research": "",
