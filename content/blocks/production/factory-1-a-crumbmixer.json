@@ -21,7 +21,7 @@
 "resources-1-aluminum/15",
 ],
 "category": "crafting",
-"research": "",
+"research": "rproduction-crafting-soda",
 "outputItem": {
 "item": "items-1-crumb",
 "amount": 1,
