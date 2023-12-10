@@ -1,13 +1,13 @@
 {
-	"name": "Crumb"
-	"description": "Crumb, also known as 'Ground Soda', the most basic and common material. This is mainly used for building tough structures or walls, can also be used as ammunition."
-  "details": "Because of its density, it is mainly used for building structures basic structures, but this also makes it a bit dangerous for if it goes under enough pressure, it will just explode, and by using this effect, it can also be used as ammunition."
-	"hardness": 1,
-	"cost": 2.5,
-	"color": "ffffff",
-	"explosiveness": 0.02,
-	"flammability": 0.0,
-  "radiocativity": 0.0,
-  "charge": 0.0,
-	"research": "rresource-items-soda"
+"name": "Crumb"
+"description": "Crumb, also known as 'Ground Soda', the most basic and common material. This is mainly used for building tough structures or walls, can also be used as ammunition."
+"details": "Because of its density, it is mainly used for building structures basic structures, but this also makes it a bit dangerous for if it goes under enough pressure, it will just explode, and by using this effect, it can also be used as ammunition."
+"hardness": 1,
+"cost": 2.5,
+"color": "ffffff",
+"explosiveness": 0.02,
+"flammability": 0.0,
+"radiocativity": 0.0,
+"charge": 0.0,
+"research": "rresource-items-soda"
 }
