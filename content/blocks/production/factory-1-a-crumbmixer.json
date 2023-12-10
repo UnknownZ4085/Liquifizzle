@@ -1,1 +1,27 @@
-
+{
+"type": "GenericCrafter",
+"name": "Crumb Mixer",
+"description": "Mixes soda with some elements from the ground.",
+"details": "Has a built in drill to extract some materials from the ground, liquifies the materials then mixes it with soda to make Crumb.",
+"size": 2,
+"hasPower": false,
+"hasItems": true,
+"hasLiquids": true,
+"craftTime": 6,
+"craftEffect": "none",
+"updateEffect": "none",
+"consumes": {
+"items": {
+  "items": [
+]
+}
+},
+"requirements": [
+],
+"category": "crafting",
+"research": "",
+"outputItem": {
+"item": "items-1-crumb",
+"amount": 1,
+}
+}
