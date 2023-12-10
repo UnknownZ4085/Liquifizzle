@@ -11,8 +11,9 @@
 "craftEffect": "none",
 "updateEffect": "none",
 "consumes": {
-"items": {
-  "items": [
+"liquids": {
+"liquids": [
+"liquids-1-soda"
 ]
 }
 },
