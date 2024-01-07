@@ -30,7 +30,7 @@
 "category": "crafting",
 "research": "rproduction-crafting-soda",
 "outputItem": {
-"item": "items-1-crumb",
+"item": "items-1-00-crumb",
 "amount": 1,
 }
 }
